@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 250" width="1280" height="250" role="img" aria-label="How a VideoTempo video is made: voice, design, check, render">
+<style>
+.c{transform-box:fill-box;transform-origin:center;animation:lift 8s ease-in-out infinite}
+.c1{animation-delay:2s}.c2{animation-delay:4s}.c3{animation-delay:6s}
+@keyframes lift{0%,30%,100%{transform:none;filter:none}8%,22%{transform:translateY(-8px);filter:drop-shadow(0 10px 14px rgba(255,106,77,.35))}}
+.bar{animation:run 8s linear infinite}@keyframes run{from{width:0}to{width:1200px}}
+</style>
+<rect width="1280" height="250" rx="24" fill="#f6f2ee"/>
+<g transform="translate(40 30)"><g class="c c0">
+<rect width="285" height="150" rx="20" fill="#ffffff" stroke="#e6dfd8" stroke-width="2"/>
+<circle cx="52" cy="52" r="30" fill="#ffc83d" class="dot"/><g transform="translate(52 52)"><path d="M0-14v28M-10-6v12M10-6v12M-20-2v4M20-2v4" stroke="#1d1630" stroke-width="5" stroke-linecap="round"/></g>
+<text x="96" y="46" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ff6a4d" letter-spacing="1.5">STEP 1</text>
+<text x="96" y="72" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#1d1630">Voice</text>
+<text x="24" y="122" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" fill="#4a425c">Narrated word for word</text></g></g><g transform="translate(345 30)"><g class="c c1">
+<rect width="285" height="150" rx="20" fill="#ffffff" stroke="#e6dfd8" stroke-width="2"/>
+<circle cx="52" cy="52" r="30" fill="#ffc83d" class="dot"/><g transform="translate(52 52)"><rect x="-18" y="-14" width="36" height="28" rx="6" fill="none" stroke="#1d1630" stroke-width="5"/><path d="M-8-4l12 6-12 6z" fill="#1d1630"/></g>
+<text x="96" y="46" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ff6a4d" letter-spacing="1.5">STEP 2</text>
+<text x="96" y="72" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#1d1630">Design</text>
+<text x="24" y="122" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" fill="#4a425c">Every scene made for its line</text></g></g><g transform="translate(650 30)"><g class="c c2">
+<rect width="285" height="150" rx="20" fill="#ffffff" stroke="#e6dfd8" stroke-width="2"/>
+<circle cx="52" cy="52" r="30" fill="#ffc83d" class="dot"/><g transform="translate(52 52)"><path d="M-14 0l9 9 19-19" fill="none" stroke="#1d1630" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="96" y="46" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ff6a4d" letter-spacing="1.5">STEP 3</text>
+<text x="96" y="72" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#1d1630">Check</text>
+<text x="24" y="122" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" fill="#4a425c">Every screen checked first</text></g></g><g transform="translate(955 30)"><g class="c c3">
+<rect width="285" height="150" rx="20" fill="#ffffff" stroke="#e6dfd8" stroke-width="2"/>
+<circle cx="52" cy="52" r="30" fill="#ffc83d" class="dot"/><g transform="translate(52 52)"><path d="M0-16v22M-10-2l10 10 10-10M-16 16h32" fill="none" stroke="#1d1630" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="96" y="46" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ff6a4d" letter-spacing="1.5">STEP 4</text>
+<text x="96" y="72" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#1d1630">Render</text>
+<text x="24" y="122" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" fill="#4a425c">MP4, captions, thumbnail, SEO pack</text></g></g>
+<rect x="40" y="208" width="1200" height="10" rx="5" fill="#e6dfd8"/>
+<rect class="bar" x="40" y="208" width="0" height="10" rx="5" fill="#ff6a4d"/>
+</svg>
